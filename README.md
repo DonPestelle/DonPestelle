@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡Hola! Soy Pep Estellé Díaz 👋
 
-<!--
-**DonPestelle/DonPestelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://source.unsplash.com/random/1200x300?technology)
 
-Here are some ideas to get you started:
+## Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un Desarroyador de software en fase de aprendizaje apasionado por las TIC, el Hardware informatico y viajar, entre otras cosas.
+- 🌱 Actualmente estoy aprendiendo C y C++, como parte de mi formacion en 42 Barcelona
+- 👯 Estoy buscando colaborar en proyectos de desarroyo de Full Stack!
+- 📫 Cómo contactarme: pepestellediaz@gmail.com
+
+## Tecnologías
+
+![JavaScript](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=Css)
+
+## Proyectos Destacados
+
+### [Get_Net_Line]([URL del proyecto 1](https://github.com/DonPestelle/get_next_line)
+The files and solution of the "get_next_line" project of 42 Barcelona!
+### [Push_Swap](https://github.com/DonPestelle/42_push_swap)
+The Push_swap project of 42 Cursus
+## Contactar
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](URL de tu GitHub)
+
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=radical)
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-de-github&layout=compact&theme=radical)
