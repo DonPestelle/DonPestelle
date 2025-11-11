@@ -6,7 +6,7 @@
 
 Soy un Desarroyador de software en fase de aprendizaje apasionado por las TIC, el Hardware informatico y viajar, entre otras cosas.
 - 👯 Estoy buscando colaborar en proyectos de desarroyo de Full Stack!
-- 📫 Cómo contactarme: pepestellediaz@gmail.com
+- 📫 Cómo contactarme: pestelle.official@gmail.com
 
 ## Tecnologías
 
@@ -26,5 +26,5 @@ Soy un Desarroyador de software en fase de aprendizaje apasionado por las TIC, e
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=radical)
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-de-github&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DonPestelle&show_icons=true&theme=radical)
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DonPestelle&layout=compact&theme=radical)
