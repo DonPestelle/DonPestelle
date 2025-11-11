@@ -33,7 +33,6 @@ Siempre estoy en busca de aprender nuevas tecnologías y colaborar en proyectos 
 ## 🌟 Proyectos Destacados
 
 🚧 *En construcción... pronto compartiré algunos proyectos interesantes.*  
-(Puedes añadir enlaces a repositorios o demos aquí)
 
 ---
 
